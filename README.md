@@ -2,7 +2,7 @@
 
 Submitted by: **Myles Bostic*
 
-**BITFIT II** is a health metrics app that allows users to track calories
+**BITFIT II** is a health app that allows users to track calories
 
 Time spent: **9** hours spent in total
 
